@@ -1,4 +1,5 @@
-# Zentra Store — E-Commerce Terintegrasi
+# Zentra V.3
+By Ahmad Riko Dyansyah
 
 Paket ini berisi 3 bagian yang saling terhubung ke satu backend, sehingga
 **harga & stok produk selalu sinkron** antara halaman admin dan aplikasi customer:
@@ -24,13 +25,6 @@ zentra-ecommerce/
    ```bash
    cd flutter_app && flutter pub get && flutter run
    ```
-
-## Akun Demo
-
-| Role     | Email              | Password    | Akses               |
-|----------|--------------------|-------------|---------------------|
-| Admin    | admin@zentra.id    | admin123    | Admin Dashboard     |
-| Customer | customer@zentra.id | customer123 | Aplikasi Flutter    |
 
 ## Bagaimana Sinkronisasi Bekerja
 
