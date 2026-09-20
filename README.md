@@ -11,21 +11,6 @@ zentra-ecommerce/
 └── flutter_app/       Flutter — aplikasi customer (mobile, iOS & Android)
 ```
 
-## Urutan Menjalankan
-
-1. **Backend** (wajib jalan duluan) — lihat `backend/README.md`
-   ```bash
-   cd backend && npm install && cp .env.example .env && npm start
-   ```
-2. **Admin Dashboard** — lihat `admin-dashboard/README.md`
-   ```bash
-   cd admin-dashboard && npm install && cp .env.example .env && npm run dev
-   ```
-3. **Aplikasi Flutter** — lihat `flutter_app/README.md` (perlu Flutter SDK terpasang)
-   ```bash
-   cd flutter_app && flutter pub get && flutter run
-   ```
-
 ## Bagaimana Sinkronisasi Bekerja
 
 Admin Dashboard dan Aplikasi Flutter sama-sama terhubung ke satu backend
