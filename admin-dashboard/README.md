@@ -20,6 +20,17 @@ Buka `http://localhost:5173`, lalu login dengan:
 Email    : admin@zentra.id
 Password : admin123
 ```
+Buka `http://localhost:5173`, lalu login dengan:
+
+```
+Email    : admin@zentra.id
+Password : admin123
+```Buka `http://localhost:5173`, lalu login dengan:
+
+```
+Email    : admin@zentra.id
+Password : admin123
+```
 
 > Pastikan backend (`../backend`) sudah berjalan di `http://localhost:4000`
 > sebelum menjalankan dashboard ini.
